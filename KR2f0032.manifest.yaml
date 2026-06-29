@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR2f0032/v1
+canonical_location: https://kanripo.org/bkk/KR2f0032/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 兩垣奏議
+  date: '2015-08-24 22:33:12.966823'
+  source:
+    repository: kanripo
+    path: KR2f0032
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2f0032_000.yaml, hash: 'sha256:bf6adbefdc40d8e9aee970f65097006eaf38013b719bd38b0746eb31a1c3f9c5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2f0032_000.markers.yaml, hash: 'sha256:23ba8fa2bfa2d0b2a818616b29214edebc25f5af7f85ae94ed8664c768112805'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2f0032_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 235
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2f0032_WYG_000-3a
+    span:
+    - body
+    - 235
+    - 5375
+  label: 两垣奏議
+  type: section
+  level: 1
+hash: sha256:8dcc8dab6a42b480461e4c7d935de1f80db3f6f2c68462a58cea6c5a1814b7b8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
