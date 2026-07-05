@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2f0032_000.yaml, hash: 'sha256:bf6adbefdc40d8e9aee970f65097006eaf38013b719bd38b0746eb31a1c3f9c5'}
+  - {seq: 0, filename: KR2f0032_000.yaml, hash: 'sha256:59c3c2cdcac7f81892fed58f18eec8a34db64d6a42f7ac91080a770c1e21e1bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2f0032_000.markers.yaml, hash: 'sha256:23ba8fa2bfa2d0b2a818616b29214edebc25f5af7f85ae94ed8664c768112805'}
+  - {seq: 0, role: markers, filename: assets/KR2f0032_000.markers.yaml, hash: 'sha256:1284b4bc1354edb35e2de385e6eaf177ff16e4299f628ad340d08bd5970b9e01'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 两垣奏議
   type: section
   level: 1
-hash: sha256:8dcc8dab6a42b480461e4c7d935de1f80db3f6f2c68462a58cea6c5a1814b7b8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bd1c40c70ce855d82dd64a2199dfb0dde52355df16b9f6986b656705bfbd50f2
