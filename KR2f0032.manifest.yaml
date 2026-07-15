@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2f0032/v1
 canonical_location: https://kanripo.org/bkk/KR2f0032/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 兩垣奏議
   date: '2015-08-24 22:33:12.966823'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2f0032_000.yaml, hash: 'sha256:59c3c2cdcac7f81892fed58f18eec8a34db64d6a42f7ac91080a770c1e21e1bd'}
+  - {seq: 0, filename: KR2f0032_000.yaml, hash: 'sha256:ecc3701cd6cf8a860899ba9535635da1ead8ae72461c2304ed9ca0f26664542b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2f0032_000.markers.yaml, hash: 'sha256:1284b4bc1354edb35e2de385e6eaf177ff16e4299f628ad340d08bd5970b9e01'}
+  - {seq: 0, role: markers, filename: assets/KR2f0032_000.markers.yaml, hash: 'sha256:e0a0f86d62dd80acbc9d5b81922c9879b5663d78460063fea3ed2a16e13f43ea'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 两垣奏議
   type: section
   level: 1
-hash: sha256:bd1c40c70ce855d82dd64a2199dfb0dde52355df16b9f6986b656705bfbd50f2
+hash: sha256:17a899543ea56deb40ae547fb93b0e64f6ecc47fe8a070632e649c83b319bd13
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
