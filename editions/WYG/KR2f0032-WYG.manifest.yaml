@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2f0032_000-WYG.yaml, hash: 'sha256:48c349e55015797be3db5f0a5b1dd4920af6a1fb4ba8a1c9218b4993645f3177'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2f0032_000-WYG.markers.yaml, hash: 'sha256:c0c54431b59970364f159c7cea26c9d9e0aaa7551111a91057c009e7ec0d8e5e'}
+  - {seq: 0, role: markers, filename: assets/KR2f0032_000-WYG.markers.yaml, hash: 'sha256:f00087fa2eb6bd0127f6155992486c238d638c6d1c92229ec1065d4ca23ef2ce'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 两垣奏議
   type: section
   level: 1
-hash: sha256:e8719ef4cbcb924a5ccc47e75c0a49272cdb070a983f9f5da2df2e293ad208c6
+hash: sha256:27683a63c21cf1312c4dc3ad63003a35e3027d05e95be55aadcebee0dd1389f8
